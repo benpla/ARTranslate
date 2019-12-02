@@ -1,0 +1,4 @@
+/myApiKeys.swift
+*.xcbkptlist
+.git
+/ARTranslate/Inceptionv3.mlmodel
