@@ -4,3 +4,4 @@
 /ARTranslate/Inceptionv3.mlmodel
 /XCode/myApiKeys.swift
 *.xcuserstate
+*.mlmodel
